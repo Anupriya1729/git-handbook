@@ -1,2 +1,2 @@
-# Git-Github-Handbook
+# Git& Github Handbook
 Started brushing up the concepts.... So just thought of creating some notes in form of a Github Repo......
