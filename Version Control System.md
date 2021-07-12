@@ -36,7 +36,9 @@ project.
 1. Local: Code is in your system and versions are saved in DB, along with time stamp
 2. Centralized: A centralized VCS contains 1 repository (central repository) and every user gets to work on the same.
                 The project resides on a server. Since we have 1 central repo therefore it has certain disadvantages.
-3. Distributed: 
+3. Distributed: There is a central repo and users have their own local repo. Each user can pull the code from central repo
+                and also push the code to the central repo.
+                Git is an example of distributed VCS.
 </pre>
 <p align="center">
   <img src="https://github.com/Anupriya1729/git-handbook/blob/main/images/centralized%20vcs.png" width="350" title="hover text">
