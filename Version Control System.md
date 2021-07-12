@@ -33,5 +33,12 @@ project.
 
 <h2>Types of VCS</h2>
 <pre>
-
+1. Local: Code is in your system and versions are saved in DB, along with time stamp
+2. Centralized: A centralized VCS contains 1 repository (central repository) and every user gets to work on the same.
+                The project resides on a server. Since we have 1 central repo therefore it has certain disadvantages.
+3. Distributed: 
 </pre>
+<p align="center">
+  <img src="https://github.com/Anupriya1729/git-handbook/blob/main/images/centralized%20vcs.png" width="350" title="hover text">
+  <img src="https://github.com/Anupriya1729/git-handbook/blob/main/images/distributed%20vcs.png" width="350" alt="accessibility text">
+</p>
